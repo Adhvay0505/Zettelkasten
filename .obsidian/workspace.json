@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "8c44da1952063e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "afb7e55c7dfdbe32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c12bae9ce406e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud/GCP/Stuff to check for GCP security assessments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stuff to check for GCP security assessments"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb95e1eb7e8bdf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "92b12c64e7fcdc6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eb77c38a6efde80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa878dde42ff72d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e9bc85ff9f6e08a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc45c7fc7bb32895",
+    "type": "split",
+    "children": [
+      {
+        "id": "c94f734b1b86fc03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3105f7b740a59b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "97c7f38f2cff6ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bc8774ce7d66a957",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "688d6253d34b2bad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a3c12bae9ce406e6",
+  "lastOpenFiles": [
+    "HackingNotes/Misc/Privelege Escalation.md",
+    "Cloud/GCP/Stuff to check for GCP security assessments.md",
+    "HackingNotes/Misc/Fix Empty or Broken PATH in a Shell.md",
+    "HackingNotes/Misc/PYTHONPATH hijacking for PrivEsc.md",
+    "Misc.md",
+    "HackingNotes/Active Directory (AD)/Basics of AD.md",
+    "Cloud/GCP",
+    "Cloud/AWS",
+    "Cloud/AWS.md",
+    "Cloud/GCP.md",
+    "Cloud",
+    "HackingNotes/Android/Lab Setup.md",
+    "HackingNotes/Enum/FTP.md",
+    "HackingNotes/Enum/Port Scanning.md",
+    "HackingNotes/Enum/SMB enumeration.md",
+    "HackingNotes/Enum/SSH.md",
+    "Kubernetes/Kubernetes Basics.md",
+    "HackingNotes/Misc/Ruby constantize Exploitation Concepts.md",
+    "HackingNotes/Misc/Reverse Shells.md",
+    "HackingNotes/Git/What to do in a CTF scenario when youre dealing with Git?.md",
+    "HackingNotes/poc.jpg",
+    "HackingNotes/0_xTF6sGyU9Hrq6SAI.webp",
+    "HackingNotes/Stabilising Shells/Ruby Interactive Shell.md",
+    "HackingNotes/Stabilising Shells/python_pty.md",
+    "HackingNotes/Stabilising Shells/Nmap Interactive Shell.md",
+    "HackingNotes/Enum/Credential testing (brute force tools).md",
+    "HackingNotes/File Transfer/HTTP Server.md"
+  ]
+}

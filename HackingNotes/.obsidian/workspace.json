@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "cd95935304206211",
+    "type": "split",
+    "children": [
+      {
+        "id": "913d912294abe5bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97baabd2888daa85",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8066ec273c287dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "380083198c457300",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79cde4a47308cfc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "743982d64d6b9675",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "14f22f3eb7295401",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af3d51c9776f5d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "061a507c7f8b844a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd137c0354320dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b267e13563a1c132",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Stabilising_Shells/python_pty.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from python_pty"
+            }
+          },
+          {
+            "id": "4169076e4853ad7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "730fd763cb1e7e59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stabilising_Shells/python_pty.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of python_pty"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "97baabd2888daa85",
+  "lastOpenFiles": [
+    "Android/Lab Setup.md",
+    "Android",
+    "Enum/web enumeration/Gobuster.md",
+    "Active Directory (AD)/Basics of AD.md",
+    "Misc/Reverse Shells.md",
+    "Kubernetes/Kubernetes Basics.md",
+    "Temporary.md",
+    "poc.jpg",
+    "sudo/sudo CVE-2025-32463.md",
+    "sudo/sudo CVE-2019-14287.md",
+    "Stabilising Shells/Ruby Interactive Shell.md",
+    "Stabilising Shells/python_pty.md",
+    "Stabilising Shells/Nmap Interactive Shell.md",
+    "Misc/Ruby constantize Exploitation Concepts.md",
+    "Misc/PYTHONPATH hijacking for PrivEsc.md",
+    "Misc/Privelege Escalation.md",
+    "Misc/Fix Empty or Broken PATH in a Shell.md",
+    "Git/What to do in a CTF scenario when youre dealing with Git?.md",
+    "File Transfer/HTTP Server.md",
+    "Enum/SSH.md",
+    "Enum/SMB enumeration.md",
+    "Enum/Port Scanning.md",
+    "Enum/FTP.md",
+    "Enum/Databases (basic connect checks).md",
+    "Enum/Credential testing (brute force tools).md",
+    "Enum/web enumeration/ffuf.md",
+    "Kubernetes/Kubernetes basics.md",
+    "Kubernetes/Pods & Deployments.md",
+    "Kubernetes",
+    "Enum/web enumeration",
+    "Enum",
+    "Screenshot From 2025-09-09 22-13-23.png",
+    "0_xTF6sGyU9Hrq6SAI.webp",
+    "sudo",
+    "Git",
+    "Misc"
+  ]
+}
