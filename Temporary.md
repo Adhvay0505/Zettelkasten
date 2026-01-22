@@ -14,3 +14,12 @@
 ## Learn Kubernetes
 - Arch Wiki
 ## Learn whatever you can in AppSec
+
+## Use containers for all projects, and integrate opencode into the workflow
+- Created a devbox
+```bash
+adhvay@DeckZero:~$ podman ps
+CONTAINER ID  IMAGE                           COMMAND     CREATED         STATUS         PORTS       NAMES
+61a2e4f8f037  docker.io/library/ubuntu:24.04  bash        19 minutes ago  Up 19 minutes              devbox
+```
+
