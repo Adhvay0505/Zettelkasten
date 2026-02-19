@@ -1,1 +1,0 @@
-https://dev.to/markbosire/practicing-terraform-locally-without-a-cloud-provider-39fb - reference
