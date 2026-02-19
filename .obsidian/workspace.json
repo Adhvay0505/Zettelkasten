@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "8c44da1952063e90",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "83e4d70b44f27771",
+        "id": "47d862f44e16e053",
         "type": "tabs",
         "children": [
           {
-            "id": "06df5c919aadb940",
+            "id": "aa21147fd7949694",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Minikube.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Minikube"
             }
           }
         ]
@@ -159,37 +163,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9eb77c38a6efde80",
+  "active": "aa21147fd7949694",
   "lastOpenFiles": [
-    "Cloud/GCP/Stuff to check for GCP security assessments.md",
-    "HackingNotes/Misc/Privelege Escalation.md",
-    "HackingNotes/Misc/Fix Empty or Broken PATH in a Shell.md",
-    "HackingNotes/Misc/PYTHONPATH hijacking for PrivEsc.md",
-    "Misc.md",
-    "HackingNotes/Active Directory (AD)/Basics of AD.md",
-    "Cloud/GCP",
-    "Cloud/AWS",
-    "Cloud/AWS.md",
-    "Cloud/GCP.md",
-    "Cloud",
-    "HackingNotes/Android/Lab Setup.md",
-    "HackingNotes/Enum/FTP.md",
-    "HackingNotes/Enum/Port Scanning.md",
-    "HackingNotes/Enum/SMB enumeration.md",
-    "HackingNotes/Enum/SSH.md",
+    "Kanban Boards.md",
+    "Kubernetes/Minikube.md",
+    "Kubernetes/Kubernetes Networking.md",
     "Kubernetes/Kubernetes Basics.md",
-    "HackingNotes/Misc/Ruby constantize Exploitation Concepts.md",
-    "HackingNotes/Misc/Reverse Shells.md",
-    "HackingNotes/Git/What to do in a CTF scenario when youre dealing with Git?.md",
-    "HackingNotes/poc.jpg",
+    "DevSecOps/05-DAST/02-OWASP-ZAP.md",
+    "DevSecOps/05-DAST/01-Introduction.md",
+    "DevSecOps/04-Container-Security/README.md",
+    "DevSecOps/03-IaC/02-Vault.md",
+    "DevSecOps/03-IaC/01-Checkov.md",
+    "DevSecOps/02-Git/README.md",
+    "DevSecOps/01-Introduction/04-OWASP-ThreatDragon.md",
+    "DevSecOps/01-Introduction/03-Threat-Modelling.md",
+    "DevSecOps/01-Introduction/02-Shiftleft.md",
+    "DevSecOps/01-Introduction/01-DevSecOps.md",
+    "Cloud/GCP/Stuff to check for GCP security assessments.md",
+    "Coding problems.md",
+    "Terraform/09-developer-workflows/README.md",
+    "Terraform/README.md",
+    "Practice Terraform locally. Use local containers and VM's to experiment instead of cloud provider.md",
+    "Temporary.md",
+    "Untitled.base",
+    "Do some Kubernetes shenanigans. Run inside containers or VMs.md",
+    "Do some Kubernetes this weekend. Run inside containers or VMs.md",
+    "College/COA/COA.md",
+    "College/CN/CN.md",
+    "Excalidraw/Drawing 2026-02-01 19.46.15.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-02-01 18.24.19.excalidraw.md",
+    "Terraform/03-basics/web-app/architecture.png",
+    "College/LSP",
+    "College/COA",
+    "College/CEH",
+    "College/CN",
+    "College/CC",
+    "College/Bash_stuff",
+    "College/AI In Cybersec",
+    "College",
     "HackingNotes/0_xTF6sGyU9Hrq6SAI.webp",
-    "HackingNotes/Stabilising Shells/Ruby Interactive Shell.md",
-    "HackingNotes/Stabilising Shells/python_pty.md",
-    "HackingNotes/Stabilising Shells/Nmap Interactive Shell.md",
-    "HackingNotes/Enum/Credential testing (brute force tools).md",
-    "HackingNotes/File Transfer/HTTP Server.md"
+    "HackingNotes/poc.jpg"
   ]
 }

@@ -16,7 +16,7 @@
 ## Learn whatever you can in AppSec
 
 ## Use containers for all projects, and integrate opencode into the workflow
-- Created a devbox
+- Created a devbox (ubuntu dockerhub image)
 ```bash
 adhvay@DeckZero:~$ podman ps
 CONTAINER ID  IMAGE                           COMMAND     CREATED         STATUS         PORTS       NAMES

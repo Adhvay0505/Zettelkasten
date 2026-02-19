@@ -152,6 +152,9 @@ my-nginx-8328f84j6  1/1     Running   0          30s   10.244.2.46   worker-node
 ```
 
 - we can solve this problem by using services
+
+Also check [[Kubernetes Networking]]
+
 ---
 ### ☢️ Services
 
@@ -264,8 +267,6 @@ No resources found in default namespace.
 
 - Everything is cleaned up and I have nothing running in my cluster anymore
 
+
 I made these notes by following this video
 https://youtu.be/9AKSLbfen6w?si=71OoA7Rl2ODs7jBE
-Watch this one for Kubernetes Networking
-https://youtu.be/J8jAzqbXxjE?si=_3ZMPfCKT-oPqLcf
-
